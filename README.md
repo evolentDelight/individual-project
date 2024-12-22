@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/AJKg-GgQ)
-
 Source Files are in this: [Folder](ben_kwon\src\main\java\com\individual)
 <br>
 Junit Test File is in this: [Folder](ben_kwon\src\test\java\com\individual)
