@@ -1,12 +1,12 @@
-Source Files are in this: [Folder](ben_kwon\src\main\java\com\individual)
+Source Files are in this: [Folder](\ben_kwon\src\main\java\com\individual)
 <br>
-Junit Test File is in this: [Folder](ben_kwon\src\test\java\com\individual)
+Junit Test File is in this: [Folder](\ben_kwon\src\test\java\com\individual)
 <br>
 Jar file is in [Jars Folder](Jars) as instucted\
 Name of the Jar file is: benKwon.jar
 <br>
 <br>
-[Folder Part 1](Part_1) contains the PDF text Answer and Class Diagram PNG
+[Folder Part 1](\Part_1) contains the PDF text Answer and Class Diagram PNG
 <br>
 <br>
 <br>
